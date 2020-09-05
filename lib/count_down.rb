@@ -1,8 +1,18 @@
-count = 10
-while count >= 1 do
+# Ruby program to illustrate 'while' loop 
   
-  count _= 1
+# variable x 
+x = 11
+  
+# using while loop  
+# here condtional is x i.e. 4 
+while x >= 2 
+  
+# statements to be executed 
+  
+  x = x - 1
+    puts x
+  
+# while loop ends here 
+ 
 end
-puts "Happy New Year! "
-
- Write your code here
+ puts "Happy New Year!"
