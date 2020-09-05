@@ -5,7 +5,7 @@ x = 11
   
 # using while loop  
 # here condtional is x i.e. 4 
-while x >= 1 
+while x >= 2 
   
 # statements to be executed 
   
